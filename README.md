@@ -12,13 +12,6 @@ A powerful video upscaling tool designed to run in Google Colab. This notebook u
 * Batch processing support.
 * Direct export to Google Drive.
 
-## 🛠 Hardware Requirements
-To ensure smooth processing, this notebook requires a **T4 GPU**. 
-> **Note:** Google Colab provides the Tesla T4 for free users (subject to availability). Please ensure your runtime type is set to **Python 3** with **T4 GPU** acceleration.
+## At colab use T4 GPU and at Kaggle use P1000 GPU
 
-## 📖 How to Use
-1. Click the **Open in Colab** badge above.
-2. Go to `Runtime` -> `Change runtime type` and select **T4 GPU**.
-3. Run the "Initialization" cell to install dependencies.
-4. Upload your video or provide a link.
-5. Start the upscaling process.
+They both have 15-16 GB RAM
