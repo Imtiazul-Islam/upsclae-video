@@ -2,7 +2,7 @@
 
 A powerful video upscaling tool designed to run in Google Colab. This notebook uses Deep Learning models to enhance video resolution and quality.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Imtiazul-Islam/upsclae-video/blob/main/real_upscale_working.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Imtiazul-Islam/upsclae-video/blob/main/real-upscale-working-colab.ipynb)
 
 ## 🚀 Features
 * Upscale videos to 4K resolution.
