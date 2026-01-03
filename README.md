@@ -1,17 +1,19 @@
-# Video Upscaler AI (Colab Edition)
+# All types of ai models notebook
 
-A powerful video upscaling tool designed to run in Google Colab. This notebook uses Deep Learning models to enhance video resolution and quality.
 
-## 🚀 Launch Environments
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Imtiazul-Islam/upsclae-video/blob/main/real-upscale-working-colab.ipynb)
-[![Open in Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/kernels/welcome?src=https://github.com/Imtiazul-Islam/upsclae-video/blob/main/real-upscale-working-kaggle.ipynb)
+## Ai Upcaale Models
+| RealESRGAN | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Imtiazul-Islam/upsclae-video/blob/main/real-upscale-working-colab.ipynb) | [![Open in Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/kernels/welcome?src=https://github.com/Imtiazul-Islam/upsclae-video/blob/main/real-upscale-working-kaggle.ipynb) |
 
-## 🚀 Features
-* Upscale videos to 4K resolution.
-* Noise reduction and motion smoothing.
-* Batch processing support.
-* Direct export to Google Drive.
+## AI Text to Image models
 
-## At colab use T4 GPU and at Kaggle use P1000 GPU
+| Z image Turbo | [![Open in Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/kernels/welcome?src=https://github.com/Imtiazul-Islam/ai-models-notebooks/blob/main/z-image-turbo-gguf-by-unsloth.ipynb) |
 
-They both have 15-16 GB RAM
+---
+
+### Use guide
+
+| GPU | Colab | Kaggle | VRAM | Time |
+| T4 | Yes | No | 15 GB | 5 hours/day |
+| P100 | No | Yes | 16 GB | 30 hours/week |
+
+Enjoy !!!
